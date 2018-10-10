@@ -1,0 +1,12 @@
+<?link rel="stylesheet" type="text/css" href="/css/style.css"?>
+<?page title="Auto Generated index.zul"?>
+<zk>
+   <div sclass="container">
+	    <a href="hello.zul">
+		    <div sclass="introFrame">Hello.zul</div> 
+	    </a>
+	  <a href="searchMVC.zul">
+		    <div sclass="introFrame">SearchMVC.zul</div> 
+	    </a>
+   </div>
+</zk>

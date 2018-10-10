@@ -1,0 +1,26 @@
+.container {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 500px;
+  height: 10px;
+}
+
+.introFrame {
+	width:500px;
+	height:30px;
+	background: #1a4876 ; 
+	line-height:30px; 
+	text-align:center;  
+	color:#FFFFFF ; 
+	border: 2px solid #CCCCCC ;
+	border-radius:10px ; 
+	
+	}
+	
+.introFrame:hover{ 
+    background:#99bde4;
+    }
